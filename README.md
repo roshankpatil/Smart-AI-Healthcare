@@ -5,6 +5,14 @@ This project uses Machine Learning to predict heart disease using the
 Heart Disease UCI (Cleveland) dataset from Kaggle. It also includes
 live health monitoring and an AI-based healthcare chatbot.
 
+---
+
+## 📸 Demo Preview
+
+[Click here for Live view](https://roshan-patil.netlify.app/)
+
+---
+
 ## Dataset
 Heart Disease Cleveland UCI Dataset
 Source: https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci/data
@@ -44,3 +52,4 @@ Features: 14 medical attributes
 - Multiple disease prediction
 - Cloud deployment
 - Mobile app support
+
